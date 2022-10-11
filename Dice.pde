@@ -27,7 +27,7 @@ void draw()
       sum = sum + dice[i][j].myValue;
     }
   }
-  text("Sum: " + sum, 10, 750, 400);
+  text("Sum: " + sum, 10, 790, 400);
 }
 
 void mousePressed()
